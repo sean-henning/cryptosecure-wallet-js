@@ -239,7 +239,7 @@ The MyMonero "core contributors" listed below either work on MyMonero full-time,
 
 * 🍄 [luigi1111](https://github.com/luigi1111) `luigi1112` – Monero tech advisor; Built client-side RingCT support
 
-* 🌠 [Sean Henning] (https://github.com/sean-henning) `sean-henning` – bits.ky CTO ; Built cryptosecure
+* 🌠 [Sean Henning](https://github.com/sean-henning) `sean-henning` – bits.ky CTO ; Built cryptosecure
 
 ## License and Copyrights
 
