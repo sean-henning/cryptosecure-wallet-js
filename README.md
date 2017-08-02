@@ -245,7 +245,7 @@ The MyMonero "core contributors" listed below either work on MyMonero full-time,
 
 See `LICENSE.txt` for license.
 
-All app source code and assets copyright © 2014-2017 by MyMonero. All rights reserved.
+All app source code and assets copyright ©2017 by cryptosecure. All rights reserved.
 
 
 # Supporting Cryptosecure
@@ -254,13 +254,13 @@ Despite Cryptosecure being a fundamentally for-profit company, we open source al
 
 * the entirety of the client applications (web wallet, desktop, Android, and native iOS), and 
 
-* a clean and performant MyMonero-API-compatible server, which will soon be introduced into the official Monero project codebase so anyone can run their own server from home.
+* a clean and performant cryptosecure-API-compatible server, which will soon be introduced into the official Monero project codebase so anyone can run their own server from home.
 
-However, in order to make the above possible, we have been operating at a severe loss since opening the site by paying out-of-pocket for hosting, development, and design costs. A comparably small amount was made on MyMonero transaction and import fees, and the transaction service fee has even been disabled since RingCT. 
+However, in order to make the above possible, we have been operating at a severe loss since opening the site by paying out-of-pocket for hosting, development, and design costs. A comparably small amount was made on cryptosecure transaction and import fees, and the transaction service fee has even been disabled since RingCT. 
 
-For this reason, if you are interested in the MyMonero apps, but are not able to contribute as a developer or QA engineer, please consider making a donation so that we may continue to bring highly usable and featureful Monero lightwallet apps and supporting technology to the community.
+For this reason, if you are interested in the Cryptosecure apps, but are not able to contribute as a developer or QA engineer, please consider making a donation so that we may continue to bring highly usable and featureful Monero lightwallet apps and supporting technology to the community.
 
-Your donation will be used to fund development on the MyMonero back-end, with the remainder going towards client (desktop & mobile) app research and development, and server/site hosting costs.
+Your donation will be used to fund development on the cryptosecure back-end, with the remainder going towards client (desktop & mobile) app research and development, and server/site hosting costs.
 
 Cryptosecure Donation Address (XMR): 49tQtXwpqQn8Ygfh2cnSXsNcZWGJw9H4mXus1BV54eB2FNjVpEpji4ELfvoZ6SSA1EW2Y2W7CwJofMymvEY2MKCCEKQo1U4
 
