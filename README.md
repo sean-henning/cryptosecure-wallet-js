@@ -39,7 +39,7 @@ Cryptosecure Wallet is currently available for:
 
 The main reasons people use the cryptosecure wallet are its convenience and featurefulness. To accomplish this convenience and other features of cryptosecure, there's the privacy trade-off of sharing your private Monero "view key" with the bits.ky server, so that it can scan the network for your wallets' transactions on your behalf. But it's impossible for cryptosecure to spend any of your funds or otherwise access your metadata, because your "private spend key" and "private wallet mnemonic/seed" are never sent to our server. So cryptosecure is often described as a 'non-custodial' service. In fact, in the near future, even the above trade-off will be eliminated as we're presently working to open-source a version of the back-end, which anybody can run as their own server at home.
 
-![Desktop Screenshot: Welcome to MyMonero! Let's get started.](https://raw.githubusercontent.com/mymonero/mymonero-app-js/master/docs/assets/ss_1.png "Welcome to MyMonero! Let's get started.")
+![Desktop Screenshot: Welcome! Let's get started.](https://raw.githubusercontent.com/mymonero/cryptosecure-app-js/master/docs/assets/ss_1.png "Welcome! Let's get started.")
 
 ## Features
 
