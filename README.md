@@ -6,7 +6,7 @@
 ### General Info
 
 1. What's in This Repo?
-2. What is MyMonero?
+2. What is the Cryptosecure Wallet?
 3. Features
 4. Downloads
 5. Requirements & Install Locations
@@ -25,19 +25,19 @@
 
 ## What's in This Repo?
 
-This repository holds the source code, resources, and build scripts for the official [MyMonero](https://www.mymonero.com) downloadable desktop and Cordova-based mobile apps, which are built in Javascript.
+This repository holds the source code, resources, and build scripts for the official [Cryptosecure](https://www.bits.ky#cryptosecure) downloadable desktop and Cordova-based mobile apps, which are built in Javascript.
 
 
-## What is MyMonero?
+## What is the Cryptosecure Wallet?
 
-MyMonero is a simple and featureful way to use the next-generation private digital currency called [Monero](http://www.getmonero.org). The MyMonero app lets you manage your Monero wallets, address book, and transactions by storing your information locally and keeping it encrypted. 
+The Cryptosecure Wallet is a simple and featureful way to use the next-generation private digital currency called [Monero](http://www.getmonero.org). The Cryptosecure Wallet app lets you manage your Monero wallets, address book, and transactions by storing your information locally and keeping it encrypted. 
 
-MyMonero is currently available for:
+Cryptosecure Wallet is currently available for:
 
 * desktop on Mac, Windows, and Linux; and
 * mobile on Android.
 
-The main reasons people use MyMonero are its convenience and featurefulness. To accomplish this convenience and other features of MyMonero, there's the privacy trade-off of sharing your private Monero "view key" with the MyMonero server, so that it can scan the network for your wallets' transactions on your behalf. But it's impossible for MyMonero to spend any of your funds or otherwise access your metadata, because your "private spend key" and "private wallet mnemonic/seed" are never sent to our server. So MyMonero is often described as a 'non-custodial' service. In fact, in the near future, even the above trade-off will be eliminated as we're presently working to open-source a version of the back-end, which anybody can run as their own server at home.
+The main reasons people use the cryptosecure wallet are its convenience and featurefulness. To accomplish this convenience and other features of cryptosecure, there's the privacy trade-off of sharing your private Monero "view key" with the bits.ky server, so that it can scan the network for your wallets' transactions on your behalf. But it's impossible for cryptosecure to spend any of your funds or otherwise access your metadata, because your "private spend key" and "private wallet mnemonic/seed" are never sent to our server. So cryptosecure is often described as a 'non-custodial' service. In fact, in the near future, even the above trade-off will be eliminated as we're presently working to open-source a version of the back-end, which anybody can run as their own server at home.
 
 ![Desktop Screenshot: Welcome to MyMonero! Let's get started.](https://raw.githubusercontent.com/mymonero/mymonero-app-js/master/docs/assets/ss_1.png "Welcome to MyMonero! Let's get started.")
 
@@ -63,7 +63,7 @@ The main reasons people use MyMonero are its convenience and featurefulness. To 
 
 ## Downloads
 
-Download the latest version from our website at [mymonero.com/app](https://www.mymonero.com/app) or from the Releases tab. *(Coming soon)* 
+Download the latest version from our website at [bits.ky/#cryptosecure](https://www.bits.ky/#cryptosecure) or from the Releases tab. *(Coming soon)* 
 
 Developers and pre-release testers who would like to use and work on the app can run it by obtaining the source and running one of the build commands below.
 
@@ -72,7 +72,7 @@ To get set up with the source code, please see **Getting the Source Code** below
 
 ## Requirements & Install Locations
 
-The desktop app is built on [Electron](https://electron.atom.io) and can be packaged to run on modern versions of:
+The desktop app is built on [mymonero](https://mymonero.com) ,who in turn built it from electron, and can be packaged to run on modern versions of:
 
 * MacOS (.app)
 * Windows (installer .exe)
@@ -92,11 +92,11 @@ The mobile apps are built on [Apache Cordova](https://cordova.apache.org) and ca
 
 ## Reporting Bugs & Making Feature Requests
 
-If you would like to report an issue or share a feature request, please create a Github [Issue](https://github.com/mymonero/monero-app-js/issues) on this project.
+If you would like to report an issue or share a feature request, please create a Github [Issue](https://github.com/cryptosecure/cryptosecure-app-js/issues) on this project.
 
 If you're reporting a bug, be sure to include all information which we would need to reproduce the issue, such as the operating system and app version on which you saw the bug, and the steps you took, if you can tell. 
 
-For customer support, you can also [contact](https://mymonero.com/support) us directly.
+For customer support, you can also [contact](https://bits.ky/support) us directly.
 
 
 
@@ -223,7 +223,7 @@ There is no specific code styleguide yet (with the exception of the preference o
 
 * We reserve the right to refuse to merge any PRs, such as those which introduce breaking changes.
 
-### MyMonero Core Contributors
+### Cryptosecure Contributors
 
 Contributors to each release are credited in release notes.
 
@@ -239,7 +239,7 @@ The MyMonero "core contributors" listed below either work on MyMonero full-time,
 
 * 🍄 [luigi1111](https://github.com/luigi1111) `luigi1112` – Monero tech advisor; Built client-side RingCT support
 
-* 🌠 Your name here?
+* 🌠 [Sean Henning] (https://github.com/sean-henning) `sean-henning` – bits.ky CTO ; Built cryptosecure
 
 ## License and Copyrights
 
@@ -248,9 +248,9 @@ See `LICENSE.txt` for license.
 All app source code and assets copyright © 2014-2017 by MyMonero. All rights reserved.
 
 
-# Supporting MyMonero
+# Supporting Cryptosecure
 
-Despite MyMonero being a fundamentally for-profit company, we open source all of the code that we can. This includes:
+Despite Cryptosecure being a fundamentally for-profit company, we open source all of the code that we can. This includes:
 
 * the entirety of the client applications (web wallet, desktop, Android, and native iOS), and 
 
@@ -262,7 +262,7 @@ For this reason, if you are interested in the MyMonero apps, but are not able to
 
 Your donation will be used to fund development on the MyMonero back-end, with the remainder going towards client (desktop & mobile) app research and development, and server/site hosting costs.
 
-MyMonero Donation Address (XMR): 48yi8KBxh7fdZzwnX2kFCGALRcN1sNjwBHDfd5i9WLAWKs7G9rVbXNnbJTqZhhZCiudVtaMJKrXxmBeBR9kggBXr8X7PxPT
+Cryptosecure Donation Address (XMR): 49tQtXwpqQn8Ygfh2cnSXsNcZWGJw9H4mXus1BV54eB2FNjVpEpji4ELfvoZ6SSA1EW2Y2W7CwJofMymvEY2MKCCEKQo1U4
 
 ## Sponsorship
 
